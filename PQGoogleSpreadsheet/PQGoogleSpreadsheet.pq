@@ -3,8 +3,8 @@ section PQGoogleSpreadsheet;
 
 
 // Constants
-client_id = Text.FromBinary(Extension.Contents("client_id.txt"));
-client_secret = Text.FromBinary(Extension.Contents("client_secret.txt"));
+client_id = 597945918486-heril3n1pisa1tafg0e88phdnmk2qsbq.apps.googleusercontent.com;
+client_secret = n2RWO5oEgiWFgWh3kcifzfVy;
 redirect_uri = "https://preview.powerbi.com/views/oauthredirect.html";
 windowWidth = 1200;
 windowHeight = 1000;
